@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IGDB
+- 👋 Hi, I’m Iain
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Machine Learning
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me on Discord at Skorpian#3042
 
